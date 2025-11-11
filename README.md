@@ -119,17 +119,3 @@ Decentralised-Drive/
 👋 Teja Karanam
 💼 Blockchain Developer | React & Web3 Enthusiast
 📧 tejakaranam76252@gmail.com
-🔗 LinkedIn • GitHub
-
-🪩 Acknowledgements
-Ethereum
-
-Hardhat
-
-Ethers.js
-
-IPFS
-
-MetaMask
-
-<p align="center"> <b>🌌 Decentralised Drive — Redefining Cloud Storage with Web3 🌌</b> </p> ```
